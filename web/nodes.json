@@ -1,0 +1,1016 @@
+{
+    "11420":{
+       "id":11420,
+       "icon":"Art\/2DArt\/SkillIcons\/passives\/ElementalDominion2.png",
+       "ks":false,
+       "not":true,
+       "dn":"Arcanist's Dominion",
+       "m":false,
+       "isJewelSocket":false,
+       "isMultipleChoice":false,
+       "isMultipleChoiceOption":false,
+       "passivePointsGranted":0,
+       "spc":[
+
+       ],
+       "sd":[
+          "20% increased Spell Damage",
+          "5% increased Cast Speed",
+          "+20 to Intelligence"
+       ],
+       "g":1,
+       "o":0,
+       "oidx":0,
+       "sa":0,
+       "da":0,
+       "ia":20,
+       "out":[
+          48362
+       ],
+       "in":[
+          11420,
+          11420,
+          11420,
+          11420,
+          11420,
+          11420,
+          11420
+       ]
+    },
+    "30439":{
+       "id":30439,
+       "icon":"Art\/2DArt\/SkillIcons\/passives\/lavalash.png",
+       "ks":false,
+       "not":true,
+       "dn":"Lava Lash",
+       "m":false,
+       "isJewelSocket":false,
+       "isMultipleChoice":false,
+       "isMultipleChoiceOption":false,
+       "passivePointsGranted":0,
+       "spc":[
+
+       ],
+       "sd":[
+          "Damage with Weapons Penetrates 8% Fire Resistance",
+          "30% increased Fire Damage with Attack Skills"
+       ],
+       "g":2,
+       "o":1,
+       "oidx":2,
+       "sa":0,
+       "da":0,
+       "ia":0,
+       "out":[
+
+       ],
+       "in":[
+          30439
+       ]
+    },
+    "8879":{
+       "id":8879,
+       "icon":"Art\/2DArt\/SkillIcons\/passives\/firedamagestr.png",
+       "ks":false,
+       "not":false,
+       "dn":"Weapon Fire Damage",
+       "m":false,
+       "isJewelSocket":false,
+       "isMultipleChoice":false,
+       "isMultipleChoiceOption":false,
+       "passivePointsGranted":0,
+       "spc":[
+
+       ],
+       "sd":[
+          "12% increased Fire Damage with Attack Skills"
+       ],
+       "g":2,
+       "o":1,
+       "oidx":4,
+       "sa":0,
+       "da":0,
+       "ia":0,
+       "out":[
+
+       ],
+       "in":[
+          8879,
+          8879
+       ]
+    },
+    "14419":{
+       "id":14419,
+       "icon":"Art\/2DArt\/SkillIcons\/passives\/firedamagestr.png",
+       "ks":false,
+       "not":false,
+       "dn":"Weapon Fire Damage",
+       "m":false,
+       "isJewelSocket":false,
+       "isMultipleChoice":false,
+       "isMultipleChoiceOption":false,
+       "passivePointsGranted":0,
+       "spc":[
+
+       ],
+       "sd":[
+          "12% increased Fire Damage with Attack Skills"
+       ],
+       "g":2,
+       "o":1,
+       "oidx":0,
+       "sa":0,
+       "da":0,
+       "ia":0,
+       "out":[
+          30439,
+          8879
+       ],
+       "in":[
+
+       ]
+    },
+    "34171":{
+       "id":34171,
+       "icon":"Art\/2DArt\/SkillIcons\/passives\/plusstrength.png",
+       "ks":false,
+       "not":false,
+       "dn":"Strength",
+       "m":false,
+       "isJewelSocket":false,
+       "isMultipleChoice":false,
+       "isMultipleChoiceOption":false,
+       "passivePointsGranted":0,
+       "spc":[
+
+       ],
+       "sd":[
+          "+10 to Strength"
+       ],
+       "g":3,
+       "o":0,
+       "oidx":0,
+       "sa":10,
+       "da":0,
+       "ia":0,
+       "out":[
+          60472
+       ],
+       "in":[
+          34171
+       ]
+    },
+    "57061":{
+       "id":57061,
+       "icon":"Art\/2DArt\/SkillIcons\/passives\/mana.png",
+       "ks":false,
+       "not":false,
+       "dn":"Mana",
+       "m":false,
+       "isJewelSocket":false,
+       "isMultipleChoice":false,
+       "isMultipleChoiceOption":false,
+       "passivePointsGranted":0,
+       "spc":[
+
+       ],
+       "sd":[
+          "+10 to maximum Mana",
+          "10% increased maximum Mana"
+       ],
+       "g":4,
+       "o":1,
+       "oidx":0,
+       "sa":0,
+       "da":0,
+       "ia":0,
+       "out":[
+          5289
+       ],
+       "in":[
+          57061
+       ]
+    },
+    "22061":{
+       "id":22061,
+       "icon":"Art\/2DArt\/SkillIcons\/passives\/mana.png",
+       "ks":false,
+       "not":false,
+       "dn":"Mana",
+       "m":false,
+       "isJewelSocket":false,
+       "isMultipleChoice":false,
+       "isMultipleChoiceOption":false,
+       "passivePointsGranted":0,
+       "spc":[
+
+       ],
+       "sd":[
+          "8% increased maximum Mana"
+       ],
+       "g":4,
+       "o":1,
+       "oidx":2,
+       "sa":0,
+       "da":0,
+       "ia":0,
+       "out":[
+          57061,
+          5289
+       ],
+       "in":[
+          22061
+       ]
+    },
+    "5289":{
+       "id":5289,
+       "icon":"Art\/2DArt\/SkillIcons\/passives\/BattleRouse.png",
+       "ks":false,
+       "not":true,
+       "dn":"Battle Rouse",
+       "m":false,
+       "isJewelSocket":false,
+       "isMultipleChoice":false,
+       "isMultipleChoiceOption":false,
+       "passivePointsGranted":0,
+       "spc":[
+
+       ],
+       "sd":[
+          "+15 to maximum Mana",
+          "15% increased maximum Mana",
+          "3% of Damage taken gained as Mana over 4 seconds when Hit"
+       ],
+       "g":4,
+       "o":1,
+       "oidx":4,
+       "sa":0,
+       "da":0,
+       "ia":0,
+       "out":[
+
+       ],
+       "in":[
+          5289,
+          5289
+       ]
+    },
+    "56646":{
+       "id":56646,
+       "icon":"Art\/2DArt\/SkillIcons\/passives\/weaponelementaldamagepercentage.png",
+       "ks":false,
+       "not":false,
+       "dn":"Weapon Elemental Damage",
+       "m":false,
+       "isJewelSocket":false,
+       "isMultipleChoice":false,
+       "isMultipleChoiceOption":false,
+       "passivePointsGranted":0,
+       "spc":[
+
+       ],
+       "sd":[
+          "10% increased Elemental Damage with Attack Skills"
+       ],
+       "g":5,
+       "o":1,
+       "oidx":5,
+       "sa":0,
+       "da":0,
+       "ia":0,
+       "out":[
+          39718
+       ],
+       "in":[
+          56646
+       ]
+    },
+    "25511":{
+       "id":25511,
+       "icon":"Art\/2DArt\/SkillIcons\/passives\/weaponelementaldamagepercentage.png",
+       "ks":false,
+       "not":false,
+       "dn":"Weapon Elemental Damage",
+       "m":false,
+       "isJewelSocket":false,
+       "isMultipleChoice":false,
+       "isMultipleChoiceOption":false,
+       "passivePointsGranted":0,
+       "spc":[
+
+       ],
+       "sd":[
+          "10% increased Elemental Damage with Attack Skills"
+       ],
+       "g":5,
+       "o":1,
+       "oidx":3,
+       "sa":0,
+       "da":0,
+       "ia":0,
+       "out":[
+          56646
+       ],
+       "in":[
+          25511
+       ]
+    },
+    "4481":{
+       "id":4481,
+       "icon":"Art\/2DArt\/SkillIcons\/passives\/ForceOfNature.png",
+       "ks":false,
+       "not":true,
+       "dn":"Forces of Nature",
+       "m":false,
+       "isJewelSocket":false,
+       "isMultipleChoice":false,
+       "isMultipleChoiceOption":false,
+       "passivePointsGranted":0,
+       "spc":[
+
+       ],
+       "sd":[
+          "Damage with Weapons Penetrates 6% Elemental Resistance",
+          "20% increased Elemental Damage with Attack Skills"
+       ],
+       "g":5,
+       "o":1,
+       "oidx":1,
+       "sa":0,
+       "da":0,
+       "ia":0,
+       "out":[
+          25511
+       ],
+       "in":[
+
+       ]
+    },
+    "24772":{
+       "id":24772,
+       "icon":"Art\/2DArt\/SkillIcons\/passives\/macedmg.png",
+       "ks":false,
+       "not":false,
+       "dn":"Mace Damage and Chance to Bleed",
+       "m":false,
+       "isJewelSocket":false,
+       "isMultipleChoice":false,
+       "isMultipleChoiceOption":false,
+       "passivePointsGranted":0,
+       "reminderText":[
+          "(Bleeding deals Physical Damage over time, based on the base Physical Damage of the Skill. Damage is higher while moving)"
+       ],
+       "spc":[
+
+       ],
+       "sd":[
+          "10% increased Physical Damage with Maces",
+          "Attacks have 10% chance to cause Bleeding",
+          "10% increased Damage with Ailments from Attack Skills while wielding a Mace"
+       ],
+       "g":6,
+       "o":2,
+       "oidx":4,
+       "sa":0,
+       "da":0,
+       "ia":0,
+       "out":[
+
+       ],
+       "in":[
+          24772,
+          24772
+       ]
+    },
+    "6633":{
+       "id":6633,
+       "icon":"Art\/2DArt\/SkillIcons\/passives\/macedmg.png",
+       "ks":false,
+       "not":false,
+       "dn":"Mace Damage and Chance to Bleed",
+       "m":false,
+       "isJewelSocket":false,
+       "isMultipleChoice":false,
+       "isMultipleChoiceOption":false,
+       "passivePointsGranted":0,
+       "reminderText":[
+          "(Bleeding deals Physical Damage over time, based on the base Physical Damage of the Skill. Damage is higher while moving)"
+       ],
+       "spc":[
+
+       ],
+       "sd":[
+          "10% increased Physical Damage with Maces",
+          "Attacks have 15% chance to cause Bleeding",
+          "10% increased Damage with Ailments from Attack Skills while wielding a Mace"
+       ],
+       "g":6,
+       "o":2,
+       "oidx":2,
+       "sa":0,
+       "da":0,
+       "ia":0,
+       "out":[
+          24772,
+          24721
+       ],
+       "in":[
+
+       ]
+    },
+    "58541":{
+       "id":58541,
+       "icon":"Art\/2DArt\/SkillIcons\/passives\/macedmg.png",
+       "ks":false,
+       "not":false,
+       "dn":"Mace Damage",
+       "m":false,
+       "isJewelSocket":false,
+       "isMultipleChoice":false,
+       "isMultipleChoiceOption":false,
+       "passivePointsGranted":0,
+       "spc":[
+
+       ],
+       "sd":[
+          "14% increased Physical Damage with Maces",
+          "14% increased Damage with Ailments from Attack Skills while wielding a Mace"
+       ],
+       "g":6,
+       "o":2,
+       "oidx":6,
+       "sa":0,
+       "da":0,
+       "ia":0,
+       "out":[
+          26456,
+          34400,
+          24772
+       ],
+       "in":[
+
+       ]
+    },
+    "26456":{
+       "id":26456,
+       "icon":"Art\/2DArt\/SkillIcons\/passives\/macedmg.png",
+       "ks":false,
+       "not":false,
+       "dn":"Mace Damage",
+       "m":false,
+       "isJewelSocket":false,
+       "isMultipleChoice":false,
+       "isMultipleChoiceOption":false,
+       "passivePointsGranted":0,
+       "spc":[
+
+       ],
+       "sd":[
+          "14% increased Physical Damage with Maces",
+          "16% increased Life Leeched per second",
+          "14% increased Damage with Ailments from Attack Skills while wielding a Mace"
+       ],
+       "g":6,
+       "o":2,
+       "oidx":9,
+       "sa":0,
+       "da":0,
+       "ia":0,
+       "out":[
+
+       ],
+       "in":[
+          26456,
+          26456
+       ]
+    },
+    "24721":{
+       "id":24721,
+       "icon":"Art\/2DArt\/SkillIcons\/passives\/BloodyBludgeon.png",
+       "ks":false,
+       "not":true,
+       "dn":"Bloody Bludgeon",
+       "m":false,
+       "isJewelSocket":false,
+       "isMultipleChoice":false,
+       "isMultipleChoiceOption":false,
+       "passivePointsGranted":0,
+       "spc":[
+
+       ],
+       "sd":[
+          "18% increased Physical Damage with Maces",
+          "6% increased Attack Speed with Maces",
+          "0.4% of Physical Attack Damage Leeched as Life",
+          "30% increased Damage with Ailments from Attack Skills while wielding a Mace"
+       ],
+       "g":6,
+       "o":2,
+       "oidx":0,
+       "sa":0,
+       "da":0,
+       "ia":0,
+       "out":[
+          26456
+       ],
+       "in":[
+          24721
+       ]
+    },
+    "33141":{
+       "id":33141,
+       "icon":"Art\/2DArt\/SkillIcons\/passives\/MasteryGroupMace.png",
+       "ks":false,
+       "not":false,
+       "dn":"Mace Mastery",
+       "m":true,
+       "isJewelSocket":false,
+       "isMultipleChoice":false,
+       "isMultipleChoiceOption":false,
+       "passivePointsGranted":0,
+       "spc":[
+
+       ],
+       "sd":[
+
+       ],
+       "g":6,
+       "o":0,
+       "oidx":0,
+       "sa":0,
+       "da":0,
+       "ia":0,
+       "out":[
+
+       ],
+       "in":[
+
+       ]
+    },
+    "53884":{
+       "id":53884,
+       "icon":"Art\/2DArt\/SkillIcons\/passives\/Inquistitor\/ElementalMastery.png",
+       "ks":false,
+       "not":true,
+       "dn":"Righteous Providence",
+       "m":false,
+       "isJewelSocket":false,
+       "isMultipleChoice":false,
+       "isMultipleChoiceOption":false,
+       "passivePointsGranted":0,
+       "ascendancyName":"Inquisitor",
+       "isAscendancyStart":false,
+       "spc":[
+
+       ],
+       "sd":[
+          "100% increased Critical Strike Chance against Enemies that are affected\nby no Elemental Ailments",
+          "+45% to Critical Strike Multiplier against Enemies that are affected\nby Elemental Ailments",
+          "20% increased Effect of non-Damaging Ailments on Enemies"
+       ],
+       "g":7,
+       "o":0,
+       "oidx":0,
+       "sa":0,
+       "da":0,
+       "ia":0,
+       "out":[
+          37486
+       ],
+       "in":[
+          53884
+       ]
+    },
+    "22407":{
+       "id":22407,
+       "icon":"Art\/2DArt\/SkillIcons\/passives\/masterywand.png",
+       "ks":false,
+       "not":false,
+       "dn":"Wand Physical Damage",
+       "m":false,
+       "isJewelSocket":false,
+       "isMultipleChoice":false,
+       "isMultipleChoiceOption":false,
+       "passivePointsGranted":0,
+       "spc":[
+
+       ],
+       "sd":[
+          "12% increased Physical Damage with Wands",
+          "12% increased Damage with Ailments from Attack Skills while wielding a Wand"
+       ],
+       "g":8,
+       "o":2,
+       "oidx":0,
+       "sa":0,
+       "da":0,
+       "ia":0,
+       "out":[
+          32942
+       ],
+       "in":[
+          22407
+       ]
+    },
+    "32942":{
+       "id":32942,
+       "icon":"Art\/2DArt\/SkillIcons\/passives\/masterywand.png",
+       "ks":false,
+       "not":false,
+       "dn":"Wand Physical Damage",
+       "m":false,
+       "isJewelSocket":false,
+       "isMultipleChoice":false,
+       "isMultipleChoiceOption":false,
+       "passivePointsGranted":0,
+       "spc":[
+
+       ],
+       "sd":[
+          "12% increased Physical Damage with Wands",
+          "12% increased Damage with Ailments from Attack Skills while wielding a Wand"
+       ],
+       "g":8,
+       "o":2,
+       "oidx":10,
+       "sa":0,
+       "da":0,
+       "ia":0,
+       "out":[
+          41476
+       ],
+       "in":[
+          32942
+       ]
+    },
+    "64239":{
+       "id":64239,
+       "icon":"Art\/2DArt\/SkillIcons\/passives\/masterywand.png",
+       "ks":false,
+       "not":false,
+       "dn":"Wand Physical Damage",
+       "m":false,
+       "isJewelSocket":false,
+       "isMultipleChoice":false,
+       "isMultipleChoiceOption":false,
+       "passivePointsGranted":0,
+       "spc":[
+
+       ],
+       "sd":[
+          "12% increased Physical Damage with Wands",
+          "12% increased Damage with Ailments from Attack Skills while wielding a Wand"
+       ],
+       "g":8,
+       "o":2,
+       "oidx":2,
+       "sa":0,
+       "da":0,
+       "ia":0,
+       "out":[
+          22407,
+          49605,
+          64612
+       ],
+       "in":[
+
+       ]
+    },
+    "41476":{
+       "id":41476,
+       "icon":"Art\/2DArt\/SkillIcons\/passives\/elderpower.png",
+       "ks":false,
+       "not":true,
+       "dn":"Elder Power",
+       "m":false,
+       "isJewelSocket":false,
+       "isMultipleChoice":false,
+       "isMultipleChoiceOption":false,
+       "passivePointsGranted":0,
+       "spc":[
+
+       ],
+       "sd":[
+          "40% increased Physical Damage with Wands",
+          "40% increased Damage with Ailments from Attack Skills while wielding a Wand"
+       ],
+       "g":8,
+       "o":2,
+       "oidx":8,
+       "sa":0,
+       "da":0,
+       "ia":0,
+       "out":[
+
+       ],
+       "in":[
+          41476,
+          41476
+       ]
+    },
+    "19098":{
+       "id":19098,
+       "icon":"Art\/2DArt\/SkillIcons\/passives\/masterywand.png",
+       "ks":false,
+       "not":false,
+       "dn":"Wand Fire Damage",
+       "m":false,
+       "isJewelSocket":false,
+       "isMultipleChoice":false,
+       "isMultipleChoiceOption":false,
+       "passivePointsGranted":0,
+       "spc":[
+
+       ],
+       "sd":[
+          "Gain 10% of Wand Physical Damage as Extra Fire Damage"
+       ],
+       "g":8,
+       "o":2,
+       "oidx":6,
+       "sa":0,
+       "da":0,
+       "ia":0,
+       "out":[
+          41476
+       ],
+       "in":[
+          19098
+       ]
+    },
+    "64612":{
+       "id":64612,
+       "icon":"Art\/2DArt\/SkillIcons\/passives\/masterywand.png",
+       "ks":false,
+       "not":false,
+       "dn":"Wand Cold Damage",
+       "m":false,
+       "isJewelSocket":false,
+       "isMultipleChoice":false,
+       "isMultipleChoiceOption":false,
+       "passivePointsGranted":0,
+       "spc":[
+
+       ],
+       "sd":[
+          "Gain 10% of Wand Physical Damage as Extra Cold Damage"
+       ],
+       "g":8,
+       "o":2,
+       "oidx":4,
+       "sa":0,
+       "da":0,
+       "ia":0,
+       "out":[
+          19098
+       ],
+       "in":[
+          64612
+       ]
+    },
+    "59959":{
+       "id":59959,
+       "icon":"Art\/2DArt\/SkillIcons\/passives\/MasteryGroupWand.png",
+       "ks":false,
+       "not":false,
+       "dn":"Wand Mastery",
+       "m":true,
+       "isJewelSocket":false,
+       "isMultipleChoice":false,
+       "isMultipleChoiceOption":false,
+       "passivePointsGranted":0,
+       "spc":[
+
+       ],
+       "sd":[
+
+       ],
+       "g":8,
+       "o":0,
+       "oidx":0,
+       "sa":0,
+       "da":0,
+       "ia":0,
+       "out":[
+
+       ],
+       "in":[
+
+       ]
+    },
+    "14914":{
+       "id":14914,
+       "icon":"Art\/2DArt\/SkillIcons\/passives\/KeystonePhaseAcrobatics.png",
+       "ks":true,
+       "not":false,
+       "dn":"Phase Acrobatics",
+       "m":false,
+       "isJewelSocket":false,
+       "isMultipleChoice":false,
+       "isMultipleChoiceOption":false,
+       "passivePointsGranted":0,
+       "flavourText":[
+          "With enough practice, you can feel the spells coming before they're even cast."
+       ],
+       "spc":[
+
+       ],
+       "sd":[
+          "30% Chance to Dodge Spell Hits"
+       ],
+       "g":9,
+       "o":0,
+       "oidx":0,
+       "sa":0,
+       "da":0,
+       "ia":0,
+       "out":[
+
+       ],
+       "in":[
+          14914
+       ]
+    },
+    "6534":{
+       "id":6534,
+       "icon":"Art\/2DArt\/SkillIcons\/passives\/evadepercentage.png",
+       "ks":false,
+       "not":false,
+       "dn":"Evasion",
+       "m":false,
+       "isJewelSocket":false,
+       "isMultipleChoice":false,
+       "isMultipleChoiceOption":false,
+       "passivePointsGranted":0,
+       "spc":[
+
+       ],
+       "sd":[
+          "12% increased Evasion Rating"
+       ],
+       "g":10,
+       "o":2,
+       "oidx":2,
+       "sa":0,
+       "da":0,
+       "ia":0,
+       "out":[
+          20812
+       ],
+       "in":[
+          6534
+       ]
+    },
+    "60204":{
+       "id":60204,
+       "icon":"Art\/2DArt\/SkillIcons\/passives\/evade.png",
+       "ks":false,
+       "not":false,
+       "dn":"Evasion",
+       "m":false,
+       "isJewelSocket":false,
+       "isMultipleChoice":false,
+       "isMultipleChoiceOption":false,
+       "passivePointsGranted":0,
+       "spc":[
+
+       ],
+       "sd":[
+          "12% increased Evasion Rating"
+       ],
+       "g":10,
+       "o":2,
+       "oidx":8,
+       "sa":0,
+       "da":0,
+       "ia":0,
+       "out":[
+          57984
+       ],
+       "in":[
+          60204
+       ]
+    },
+    "8348":{
+       "id":8348,
+       "icon":"Art\/2DArt\/SkillIcons\/passives\/evadepercentage.png",
+       "ks":false,
+       "not":false,
+       "dn":"Evasion",
+       "m":false,
+       "isJewelSocket":false,
+       "isMultipleChoice":false,
+       "isMultipleChoiceOption":false,
+       "passivePointsGranted":0,
+       "spc":[
+
+       ],
+       "sd":[
+          "12% increased Evasion Rating"
+       ],
+       "g":10,
+       "o":2,
+       "oidx":0,
+       "sa":0,
+       "da":0,
+       "ia":0,
+       "out":[
+          6534
+       ],
+       "in":[
+          8348
+       ]
+    },
+    "106":{
+       "id":106,
+       "icon":"Art\/2DArt\/SkillIcons\/passives\/MasteryGroupEvasion.png",
+       "ks":false,
+       "not":false,
+       "dn":"Evasion Mastery",
+       "m":true,
+       "isJewelSocket":false,
+       "isMultipleChoice":false,
+       "isMultipleChoiceOption":false,
+       "passivePointsGranted":0,
+       "spc":[
+
+       ],
+       "sd":[
+
+       ],
+       "g":10,
+       "o":0,
+       "oidx":0,
+       "sa":0,
+       "da":0,
+       "ia":0,
+       "out":[
+
+       ],
+       "in":[
+
+       ]
+    },
+    "17814":{
+       "id":17814,
+       "icon":"Art\/2DArt\/SkillIcons\/passives\/evadepercentage.png",
+       "ks":false,
+       "not":false,
+       "dn":"Evasion",
+       "m":false,
+       "isJewelSocket":false,
+       "isMultipleChoice":false,
+       "isMultipleChoiceOption":false,
+       "passivePointsGranted":0,
+       "spc":[
+
+       ],
+       "sd":[
+          "12% increased Evasion Rating"
+       ],
+       "g":10,
+       "o":2,
+       "oidx":6,
+       "sa":0,
+       "da":0,
+       "ia":0,
+       "out":[
+          60204,
+          32091
+       ],
+       "in":[
+
+       ]
+    },
+    "57984":{
+       "id":57984,
+       "icon":"Art\/2DArt\/SkillIcons\/passives\/evadepercentage.png",
+       "ks":false,
+       "not":false,
+       "dn":"Evasion",
+       "m":false,
+       "isJewelSocket":false,
+       "isMultipleChoice":false,
+       "isMultipleChoiceOption":false,
+       "passivePointsGranted":0,
+       "spc":[
+
+       ],
+       "sd":[
+          "12% increased Evasion Rating"
+       ],
+       "g":10,
+       "o":2,
+       "oidx":10,
+       "sa":0,
+       "da":0,
+       "ia":0,
+       "out":[
+          8348
+       ],
+       "in":[
+          57984,
+          57984
+       ]
+    }
+ }
